@@ -1,0 +1,28 @@
+Tasks
+- single author- multiple author radioitem (switch - page?)
+   # also work on year chained callback (maybe RANGE SLIDER) 
+
+- clean location and date 
+===================================================================
+Dash App Scattermapbox Multiple Authors - Bootstrap Index 
+# Issues
+# colors are not contrasting enough 
+# Next Steps
+# multiple author - mode : line+marker (might be better)
+# hyperlink to author names 
+-------------------------------------------------------------------
+#FUTURE GOALS 
+# all button for selecting all of the authors in the dropdown
+    # select SINGLE location and select ALL authors to see who was at that location  
+# MODE = LINE, NOT MARKER (this might be better for multiple authors_)
+
+# chained callback (year)
+
+# css (background color) 
+# Multi page
+   # infos
+   # display photos and videos
+   # georeference old korean map of certain years 
+
+# webscraping
+
