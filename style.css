@@ -1,0 +1,52 @@
+div{
+    padding-bottom: 20px;
+}
+
+.center{
+    font-family : 'Noto Sans', sans-serif;
+    text-align: center;
+}
+
+.dropdown{
+    margin-right: 5px;
+    
+}
+
+.button{
+    margin-right: 10px;
+}
+
+#next_button, prev_button{
+    color: #ffe102;
+}
+
+#zoom_in, zoom_out{
+}
+
+#toggle_switch{
+    color: black;
+}
+
+#map{
+    background-color: Cornsilk;
+    height: 100%;
+    width: 100%;
+}
+
+#image {
+    height: 100%;
+    width: 100%;
+}
+
+#nav-bar-layout{
+
+}
+
+#side-layout{
+    position : fixed;
+    right: 0;
+    flex-basis: auto;
+}
+
+#root-layout{
+}
